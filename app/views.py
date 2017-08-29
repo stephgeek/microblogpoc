@@ -9,12 +9,12 @@ def index():
 	posts = [ # fake array of posts
 		{
 		
-			'author': {'nickname': 'John'},
+			'author': {'nickname': 'Konro'},
 			'body': 'Beautiful day in Cameroon!'
 		},
 		{
 
-			'author': {'nickname': 'Susan'},
+			'author': {'nickname': 'Yolande'},
 			'body': 'The Algorithm movie was so cool!'
 		}
 	]
